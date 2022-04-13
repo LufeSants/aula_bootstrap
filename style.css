@@ -1,0 +1,41 @@
+body{
+    font-size: 20px Arial, Sans-serif;
+
+}
+
+.navbar{
+    background-color: #8dc45d;
+
+}
+
+.navbar-brand{
+    padding: 10px;
+    
+}
+
+.navbar-light .navbar-nav .nav-link{
+    font-size: 25px;
+    color: white;
+
+}
+
+
+.quem-somos{
+    background-color: #eb9f3d;
+    color: white;
+}
+
+.margin{ 
+    padding-bottom:50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #60bbe6;
+    color: white;
+}
+
+.serviços{
+    font-size: 20px;
+    color: #ff9205;
+}
